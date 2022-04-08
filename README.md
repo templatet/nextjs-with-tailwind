@@ -1,6 +1,6 @@
 # 📜 Information
 - This project is edited by **Templatet**.
-- It is coded with **Typescript**.
+- It is coded with **TypeScript**.
 
 # 🔎 Setup
 
