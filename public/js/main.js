@@ -1,0 +1,1 @@
+console.log("[!] Designed with 💙 by Templatet (github.com/templatet)")
